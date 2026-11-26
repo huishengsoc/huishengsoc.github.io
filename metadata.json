@@ -1,6 +1,6 @@
 {
   "name": "Huish Engineering Society",
-  "description": "Minimalist website for the Richard Huish College Engineering Society, established in 2026.",
+  "description": "Join us!",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
